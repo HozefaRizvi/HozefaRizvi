@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Hozefa Rizvi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Senior+React+Native+Developer;Health+Tech+Consultant;App+Branding+and+Design+Expert;Always+building+cool+stuff&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Native+Expert;Mobile+App+Architect;Node.js+%7C+Express+%7C+MongoDB;Building+Cross-Platform+Apps;Always+Learning+and+Shipping+Code&center=true&width=600&height=50">
   </a>
 </p>
 <hr/>
