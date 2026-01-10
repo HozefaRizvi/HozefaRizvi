@@ -9,8 +9,7 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hozefarizvi&label=Profile%20views&color=0e75b6&style=plastic" alt="hozefarizvi" /> </p>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hozefarizvi&theme=algolia" alt="hozefarizvi" /></p>
+
 
 
 ## 🛠️ My Skills
@@ -70,12 +69,7 @@
   </p>
 </details>
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <img alt="Hozefa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hozefarizvi&custom_title=Hozefa%20Rizvi's%20Contribution%20Graph&theme=react-dark" />
-  <br/>
-</details>
+
 
 <br/>
 
